@@ -1,0 +1,30 @@
+# ── Core AI / Voice ─────────────────────────────────────
+pyttsx3
+sounddevice
+vosk
+requests
+
+# ── Vision / Screen ─────────────────────────────────────
+mss
+opencv-python
+numpy
+pytesseract
+Pillow
+
+# ── System Automation ───────────────────────────────────
+pyautogui
+psutil
+wmi
+pycaw
+comtypes
+screen-brightness-control
+
+# ── FastAPI Backend ─────────────────────────────────────
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# ── Desktop Widget ───────────────────────────────────────
+PyQt5
+PyQtWebEngine

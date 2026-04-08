@@ -1,0 +1,6 @@
+{
+  "play": "OPEN_APP(steam)",
+  "message": "OPEN_APP(whatsapp)",
+  "project": "OPEN_FOLDER(C:\\Study\\Projects\\Jarvis)",
+  "browse": "OPEN_APP(chrome)"
+}
